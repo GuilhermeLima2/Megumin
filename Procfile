@@ -1,1 +1,1 @@
-woker: node bot.js Megumin
+woker: node bot.js
